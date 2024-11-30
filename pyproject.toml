@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "nn-python"
+name = "mlpy"
 version = "0.1.0"
 description = ""
 authors = ["Foxicution <foxicution@gmail.com>"]
